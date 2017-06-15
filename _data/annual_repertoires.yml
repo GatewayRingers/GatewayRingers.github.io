@@ -1,5 +1,5 @@
 - year: 2017
-  piece:
+  pieces:
     - title: The Star Spangled Banner
       composer: arr. Robert Noland
       concert: Spring 2017 “Sounds of St. Louis”
@@ -34,7 +34,7 @@
       composer: Chuck Berry, arr. Charles E. Peery
       concert: Spring 2017 “Sounds of St. Louis”
 - year: 2016
-  piece:
+  pieces:
     - title: Christmas Carillon
       composer: Kenneth Lowenberg
       concert: Holiday 2016 “Ring Noel”
