@@ -8,9 +8,9 @@ title: Gateway Repertoire
     <tbody class="h-copy athelas">
     {% for piece in year_repertoire.pieces %}
     <tr class="stripe-dark">
-        <th class="tl pa2">piece.title</td>
-        <th class="tl pa2">piece.composer</td>
-        <th class="tl pa2">piece.concert</td>
+        <th class="tl pa2">{{ piece.title }}</td>
+        <th class="tl pa2">{{ piece.composer }}</td>
+        <th class="tl pa2">{{ piece.concert }}</td>
     </tr>
     {% endfor %}
 </table>
