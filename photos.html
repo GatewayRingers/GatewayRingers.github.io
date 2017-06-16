@@ -9,7 +9,8 @@ title: Photos and Video of the Gateway Ringers
   </div>
 </div>
 <p class="ph2 f6 f5-ns mt1 mb4">Video: Gateway performs the Gateway Stomp!</p>
-
-<img class="mw-100" src="/images/2014_09_group_sm.jpg">
-<p class="ph2 f6 f5-ns mt1 mb4">September, 2014 - Fancy!</p>
+{% for photo in site.data.photos %}
+  <img class="mw-100" src="{{ photo.file }}">
+  <p class="ph2 f6 f5-ns mt1 mb4">{{ photo.label }}</p>
+{% endfor %}
 </div>
