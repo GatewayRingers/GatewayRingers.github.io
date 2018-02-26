@@ -1,0 +1,13 @@
+- concert: Spring Concert
+  datetime: 2018-05-20 16:00:00
+  location: Bonhomme Presbyterian Church
+  address: 14820 Conway Road, Chesterfield, MO 63017
+  map_url: https://www.google.com/maps/place/Bonhomme+Presbyterian+Church/@38.6492313,-90.5390594,17z/data=!4m13!1m7!3m6!1s0x87d8d4b2f79440c3:0x19f208fa8fd920eb!2s14820+Conway+Rd,+Chesterfield,+MO+63017!3b1!8m2!3d38.6492271!4d-90.5368707!3m4!1s0x87d8d4b2543b925d:0xc0977df0bb0a6de!8m2!3d38.6492271!4d-90.5368707
+  notes: For more info <a class="link blue dim" href="mailto:info@gatewayringers.org">email us</a>
+
+- concert: Spring Concert
+  datetime: 2018-04-29 16:00:00
+  location: Faith Lutheran Church
+  address: 520 East US 50, O’Fallon, Illinois 62269
+  map_url: https://www.google.com/maps/place/Faith+Lutheran+Church/@38.5858235,-89.8978939,14z/data=!4m8!1m2!2m1!1sFaith+Lutheran+Church,+O%E2%80%99Fallon,+Illinois+62269!3m4!1s0x88760691235f394b:0x6c2565146d131704!8m2!3d38.5832275!4d-89.9007272
+  notes: For more info <a class="link blue dim" href="mailto:info@gatewayringers.org">email us</a> or call (618)632-5562
