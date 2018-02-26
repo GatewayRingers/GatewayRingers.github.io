@@ -18,22 +18,23 @@ Cincinnati  Conservatory.</p>
 <h2 class="cb ph2">Members</h2>
 <img id="groupimgid" class="w-100" src="/images/2018_members.jpg" alt="Gateway Ringers group photo" usemap="#groupmap">
 <map name="groupmap" id="groupmapid">
-<area shape="rect" coords="193,13,258,81" href="#Carl" title="Carl Zimmerman">
-<area shape="rect" coords="759,250,689,173"href="#Andy" title="Andy Eversole">
-<area shape="rect" coords="411,194,345,127" href="#Kevon" title="Kevon Hall">
-<area shape="rect" coords="719,144,644,64" href="#Don" title="Don Hayman">
-<area shape="rect" coords="429,120,363,43" href="#Jeff" title="Jeff White">
-<area shape="rect" coords="551,250,481,170" href="#Kim" title="Kim Amos">
-<area shape="rect" coords="376,333,288,254" href="#Diane" title="Diane Stout">
-<area shape="rect" coords="291,246,216,181" href="#Kaitlyn" title="Kaitlyn Meier">
-<area shape="rect" coords="551,118,478,36" href="#Carla" title="Carla Hoppe">
-<area shape="rect" coords="658,292,590,211" href="#Marcia" title="Marcia Barber">
-<area shape="rect" coords="501,342,425,262" href="#Jill" title="Jill Dean">
-<area shape="rect" coords="314,175,249,103" href="#Amanda" title="Amanda Morgan">
-<area shape="rect" coords="360,415,281,339" href="#June" title="June Jones">
-<area shape="rect" coords="183,231,92,163" href="#Trish" title="Trish Jackson">
-<area shape="rect" coords="480,432,421,362" href="#Mopsi" title="Mopsi Hanley">
-<area shape="rect" coords="207,348,136,267" href="#Director" title="Chuck Peery, Director">
+<area shape="rect" coords="48,23,156,151" href="#Carla" title="Carla Hoppe">
+<area shape="rect" coords="156,18,255,118"href="#Peter" title="Peter Dahlstrom">
+<area shape="rect" coords="198,125,295,241" href="#June" title="June Jones">
+<area shape="rect" coords="293,68,377,172" href="#Kim" title="Kim Amos">
+<area shape="rect" coords="350,159,459,271" href="#Mopsi" title="Mopsi Hanley">
+<area shape="rect" coords="390,46,478,142" href="#Andy" title="Andy Eversole">
+<area shape="rect" coords="479,86,564,199" href="#Jeff" title="Jeff White">
+<area shape="rect" coords="564,147,652,265" href="#Trish" title="Trish Jackson">
+<area shape="rect" coords="606,41,686,141" href="#Tim" title="Tim Way">
+<area shape="rect" coords="716,93,805,213" href="#Ruth" title="Ruth McDonnell">
+<area shape="rect" coords="820,40,878,147" href="#Don" title="Don Hayman">
+<area shape="rect" coords="870,105,949,196" href="#Amanda" title="Amanda Morgan">
+<area shape="rect" coords="936,184,1024,285" href="#Diane" title="Diane Stout">
+<area shape="rect" coords="968,44,1045,147" href="#Carl" title="Carl Zimmerman">
+<area shape="rect" coords="1048,62,1127,183" href="#Kaitlyn" title="Kaitlyn Meier">
+<area shape="rect" coords="437,270,543,409" href="#Angela" title="Angela Ohmie">
+<area shape="rect" coords="687,294,799,431" href="#Julia" title="Julia Matthews">
 </map>
 <p class="ph2 f7 f6-ns tr i mt0">Mouseover to see who’s who; click to jump to biography.</p>
 
@@ -96,7 +97,7 @@ Cincinnati  Conservatory.</p>
   is married to Bill, has three sons, three wonderful daughters-in-law, and
   four beautiful granddaughters.</li>
   
-  <li class="pv2"><strong>Julia Matthews</strong> joined the Gateway Ringers in the fall of 2017.
+  <li class="pv2" id="Julia"><strong>Julia Matthews</strong> joined the Gateway Ringers in the fall of 2017.
   She is a retired music teacher, and is currently the organist at Kirkwood Baptist Church.
   Julia and her husband, Steve, live in Sainte Genevieve, and have three children and four grandchildren.</li>
 
@@ -248,7 +249,7 @@ window.onload = function () {
       areas = map.getElementsByTagName('area'),
       len = areas.length,
       coords = [],
-      previousWidth = 900;
+      previousWidth = 1201;
     for (n = 0; n < len; n++) {
       coords[n] = areas[n].coords.split(',');
     }
