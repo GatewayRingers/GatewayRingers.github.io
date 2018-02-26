@@ -911,3 +911,25 @@ title: The Gateway Ringers Performance Schedule
  <li class="mv3">March 17, 1996, Ladue Chapel </li>
  <li class="mv3">November 19, 1995, 7:30 p.m., First Congregational Church of Webster Groves </li>
 </ul>
+
+{% for event in site.data.events  %}
+    {% capture this_year %}{{ event.datetime | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ event.previous.datetime | date: "%Y" }}{% endcapture %}
+
+    {% if forloop.first %}
+    <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
+    <ul>
+    {% endif %}
+
+    <li>{{ event.concert }}</a></li>
+
+    {% if forloop.last %}
+    </ul>
+    {% else %}
+        {% if this_year != next_year %}
+        </ul>
+        <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+        <ul>
+        {% endif %}
+    {% endif %}
+{% endfor %}
