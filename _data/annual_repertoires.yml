@@ -1,5 +1,38 @@
 - year: 2017
   pieces:
+    - title: Love is Blue
+      composer: Paul Mauriat, arr. Charles E. Peery
+      concert: Spring 2018 “Seasons”
+    - title: A Shining Star
+      composer: Kathleen Wissinger
+      concert: Spring 2018 “Seasons”
+    - title: Far Away Places
+      composer: Joan Whitney/Alex Kramer, arr. Charles E. Peery
+      concert: Spring 2018 “Seasons”
+    - title: Carillon
+      composer: Louis Vierne, arr. Fred Gramann
+      concert: Spring 2018 “Seasons”
+    - title: Johnny B. Goode
+      composer: Chuck Berry, arr. Charles E. Peery
+      concert: Spring 2018 “Seasons”
+    - title: Love Will Keep Us Together
+      composer: Neil Sedaka, arr. Charles E. Peery
+      concert: Spring 2018 “Seasons”
+    - title: Turn, Turn, Turn! (World Premiere Spring 2018)
+      composer: Pete Seeger, arr. Derek K. Hakes
+      concert: Spring 2018 “Seasons”
+    - title: Jesus, We Want to Meet
+      composer: arr. Charles E. Peery
+      concert: Spring 2018 “Seasons”
+    - title: How Can I Keep from Singing?
+      composer: arr. Arnold Sherman
+      concert: Spring 2018 “Seasons”
+    - title: The Magnificent Seven
+      composer: Elmer Bernstein, arr. Sondra K. Tucker
+      concert: Spring 2018 “Seasons”
+      
+- year: 2017
+  pieces:
     - title: A Medieval Procession
       composer: Charles E. Peery
       concert: "Holiday 2017 “Light in Darkness: Medieval Christmas Carols for Handbells”"
