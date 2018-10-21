@@ -65,7 +65,7 @@ title: The Gateway Ringers Performance Schedule
 <script>
 var upcoming = document.querySelectorAll("li.upcoming");
 for (var event in upcoming) {
-  var upcoming_date = new Date(upcoming[event].querySelector(".upcoming_date").innerText);
+  var upcoming_date = new Date(new Date(upcoming[event].querySelector(".upcoming_date").innerText).toDateString());
   if (upcoming_date >= new Date()) {
     upcoming[event].style.display = "block";
   }
