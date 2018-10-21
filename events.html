@@ -36,7 +36,7 @@ title: The Gateway Ringers Performance Schedule
 {% for year_event in site.data.events reversed limit:2 %}
   {% for concert in year_event.concerts reversed %}
   <li hidden class="mv3 upcoming"><div class="white bg-gold fl tc f0 ph3 pv2"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
-    <div hidden>{{ concert.date }}</div>
+    <div class="upcoming_date" hidden>{{ concert.date }}</div>
     <h3 class="pl5 mv1">{{ concert.name }}</h3>
     <p class="pl5 mv1 b">{{ concert.time }}</p>
     <p class="pl5 mv1 athelas">{{ concert.location }}<br>
@@ -65,7 +65,9 @@ title: The Gateway Ringers Performance Schedule
 <script>
 var upcoming = document.querySelectorAll("li.upcoming");
 for (var event in upcoming) {
-  
+  var upcoming_date = new Date(upcoming[event].querySelector(".upcoming_date").value);
+  if (upcoming_date >= new Date()) {
+    upcoming[event].style.display = "block";
+  }
 }
-upcoming[0].style.display = "block";
 </script>
