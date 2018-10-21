@@ -9,7 +9,7 @@ title: The Gateway Ringers Performance Schedule
 <h2>Upcoming Concerts</h2>
 <ul class="list">
 {% for year_event in site.data.events reversed limit:2 %}
-  {% for concert in year_event.concerts reversed %}
+  {% for concert in year_event.concerts %}
   <li hidden class="mv3 upcoming"><div class="white bg-gold fl tc f0 ph3 pv2"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
     <div class="upcoming_date" hidden>{{ concert.date }}</div>
     <h3 class="pl5 mv1">{{ concert.name }}</h3>
