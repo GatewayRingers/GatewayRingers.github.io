@@ -8,31 +8,6 @@ title: The Gateway Ringers Performance Schedule
 
 <h2>Upcoming Concerts</h2>
 <ul class="list">
-<li class="mv3"><div class="white bg-gold fl tc f0 ph3 pv2"><span class="f5 pb0 b">Oct</span><br><span class="f3 b">7</span></div>
-     <h3 class="pl5 mv1">Fall Concert</h3>
-     <p class="pl5 mv1 b">4 PM</p>
-     <p class="pl5 mv1 athelas">Cross Keys Baptist Church<br>
-     <a class="link blue dim" target="_blank" href="https://www.google.com/maps/place/14255+New+Halls+Ferry+Road,+Florissant,+MO+63033/@38.8106401,-90.3028318,17z/data=!3m1!4b1!4m5!3m4!1s0x87df37fd442a085f:0xe4a999105de2bd0e!8m2!3d38.8106401!4d-90.3006431">14255 New Halls Ferry Rd, Florissant, MO 63033</a>
-     <p class="pl5 mv1 i f6 athelas">For more info <a class="link blue dim" href="mailto:info@gatewayringers.org">email us</a> or contact Sam Heyl at (314) 831-0643</p>
-     </li>
-<li class="mv3"><div class="white bg-gold fl tc f0 ph3 pv2"><span class="f5 pb0 b">Oct</span><br><span class="f3 b">21</span></div>
-     <h3 class="pl5 mv1">Fall Concert</h3>
-     <p class="pl5 mv1 b">4 PM</p>
-     <p class="pl5 mv1 athelas">Peace Lutheran Church<br>
-     <a class="link blue dim" target="_blank" href="https://www.google.com/maps/place/737+Barracksview+Rd,+St.+Louis,+MO+63125/@38.4987988,-90.3102066,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8c81a6b7e0d37:0x382bb4d3eaa4c061!8m2!3d38.4987988!4d-90.3080179">737 Barracksview Road, St. Louis, MO 63125</a>
-     <p class="pl5 mv1 i f6 athelas">For more info <a class="link blue dim" href="mailto:info@gatewayringers.org">email us</a> or contact Burnell Hackman at (314) 892-5610</p>
-     </li>
-<li class="mv3"><div class="white bg-gold fl tc f0 ph3 pv2"><span class="f5 pb0 b">Nov</span><br><span class="f3 b">4</span></div>
-     <h3 class="pl5 mv1">Fall Concert</h3>
-     <p class="pl5 mv1 b">4 PM</p>
-     <p class="pl5 mv1 athelas">Good Shepherd Lutheran Church, ELCA<br>
-     <a class="link blue dim" target="_blank" href="https://www.google.com/maps/place/327+Woods+Mill+Rd,+Ballwin,+MO+63011/@38.5989491,-90.5120007,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d397746fe3c5:0x19a41d977648678b!8m2!3d38.5989491!4d-90.509812">327 Woods Mill Rd., Ballwin, MO 63011-4300</a>
-     <p class="pl5 mv1 i f6 athelas">For more info <a class="link blue dim" href="mailto:info@gatewayringers.org">email us</a> or contact Jamie De Geer at (636) 391-6685</p>
-     </li>
-     </ul>
-
-<h2>Upcoming Concerts</h2>
-<ul class="list">
 {% for year_event in site.data.events reversed limit:2 %}
   {% for concert in year_event.concerts reversed %}
   <li hidden class="mv3 upcoming"><div class="white bg-gold fl tc f0 ph3 pv2"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
