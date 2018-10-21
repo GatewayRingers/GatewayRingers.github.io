@@ -31,6 +31,21 @@ title: The Gateway Ringers Performance Schedule
      </li>
      </ul>
 
+<h2>Upcoming Concerts</h2>
+<ul class="list">
+{% for year_event in site.data.events reversed limit:2 %}
+  {% for concert in year_event.concerts reversed %}
+  <li class="mv3"><div class="white bg-gold fl tc f0 ph3 pv2"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
+    <h3 class="pl5 mv1">{{ concert.name }}</h3>
+    <p class="pl5 mv1 b">{{ concert.time }}</p>
+    <p class="pl5 mv1 athelas">{{ concert.location }}<br>
+    <a class="link blue dim" target="_blank" href="{{ concert.href }}">{{ concert.address }}</a>
+    <p class="pl5 mv1 i f6 athelas">For more info <a class="link blue dim" href="mailto:info@gatewayringers.org">email us</a>{% if concert.contact %} or {{ concert.contact }}{% endif %}</p>
+  </li>
+  {% endfor %}
+{% endfor %}
+</ul>
+
 {% for year_event in site.data.events %}
 <h2>{{ year_event.year }} Performance Schedule</h2>
 <ul class="list">
