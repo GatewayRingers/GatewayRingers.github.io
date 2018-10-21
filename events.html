@@ -31,11 +31,19 @@ title: The Gateway Ringers Performance Schedule
      </li>
      </ul>
 
+<script>
+var upcoming = document.querySelectorAll("li.upcoming");
+for (var event in upcoming) {
+  
+}
+upcoming[0].hidden = false;
+</script>
 <h2>Upcoming Concerts</h2>
 <ul class="list">
 {% for year_event in site.data.events reversed limit:2 %}
   {% for concert in year_event.concerts reversed %}
-  <li class="mv3"><div class="white bg-gold fl tc f0 ph3 pv2"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
+  <li hidden class="mv3 upcoming"><div class="white bg-gold fl tc f0 ph3 pv2"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
+    <div hidden>{{ concert.date }}</div>
     <h3 class="pl5 mv1">{{ concert.name }}</h3>
     <p class="pl5 mv1 b">{{ concert.time }}</p>
     <p class="pl5 mv1 athelas">{{ concert.location }}<br>
