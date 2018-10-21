@@ -31,13 +31,6 @@ title: The Gateway Ringers Performance Schedule
      </li>
      </ul>
 
-<script>
-var upcoming = document.querySelectorAll("li.upcoming");
-for (var event in upcoming) {
-  
-}
-upcoming[0].style.display = "block";
-</script>
 <h2>Upcoming Concerts</h2>
 <ul class="list">
 {% for year_event in site.data.events reversed limit:2 %}
@@ -68,3 +61,11 @@ upcoming[0].style.display = "block";
   {% endfor %}
 </ul>
 {% endfor %}
+
+<script>
+var upcoming = document.querySelectorAll("li.upcoming");
+for (var event in upcoming) {
+  
+}
+upcoming[0].style.display = "block";
+</script>
