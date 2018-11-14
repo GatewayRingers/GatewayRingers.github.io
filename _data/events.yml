@@ -49,12 +49,33 @@
       address: 327 Woods Mill Rd., Ballwin, MO 63011-4300
       href: https://www.google.com/maps/place/327+Woods+Mill+Rd,+Ballwin,+MO+63011/@38.5990364,-90.5119573,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d397746fe3c5:0x19a41d977648678b!8m2!3d38.5989491!4d-90.509812
       contact: Jamie De Geer (636) 391-6685
+    - date: 2018-12-02
+      name: Holiday Concert “Traditions of Christmas”
+      time: 4 PM
+      location: St. Paul UCC
+      address: 123 East Dee Street, Lebanon, IL 62254
+      href: https://www.google.com/maps/place/123+E+Dee+St,+Lebanon,+IL+62254/data=!4m2!3m1!1s0x88760904edff03a5:0x7fb99cd9652b7ac5?ved=2ahUKEwjc_vyAi9PeAhUUyYMKHZP3BuMQ8gEwAHoECAEQAQ
+      contact: 618-537-4991
     - date: 2018-12-07
-      name: Holiday Concert
+      name: Holiday Concert “Traditions of Christmas”
       time: 7:30 PM
       location: Holy Cross Lutheran Church
       address: 8945 Veterans Memorial Parkway, O'Fallon, MO 63366
       href: https://www.google.com/maps/place/8945+Veterans+Memorial+Pkwy,+O'Fallon,+MO+63366/data=!4m2!3m1!1s0x87ded08c70cc4df7:0x59bdcc014e45c6ff?sa=X&ved=2ahUKEwip9rf39t7cAhXJmOAKHeweBQcQ8gEwAHoECAEQAQ
+      contact: 636-272-4505
+    - date: 2018-12-09
+      name: Holiday Concert “Traditions of Christmas”
+      time: 4 PM
+      location: Faith Des Peres Presbyterian Church
+      address: 11155 Clayton Road, St. Louis, MO 63131
+      href: https://www.google.com/maps/place/11155+Clayton+Rd,+Frontenac,+MO+63131/@38.6340789,-90.4238753,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8cd232a27300f:0x55fc3e9a77b99968!8m2!3d38.6340789!4d-90.4216866
+      contact:     
+    - date: 2018-12-16
+      name: Holiday Concert “Traditions of Christmas”
+      time: 4 PM
+      location: St. Paul's Lutheran Church
+      address: 227 North Good Haven, Columbia, IL 62236
+      href: https://www.google.com/maps/place/227+Goodhaven+Dr,+Columbia,+IL+62236/data=!4m2!3m1!1s0x87d8bbcccf45b2cb:0x71344bc0aa356922?ved=2ahUKEwjk5uaXjNPeAhUM84MKHYx3B2AQ8gEwAHoECAQQAQ
       contact: 
 
 - year: 2017
