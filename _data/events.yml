@@ -1,11 +1,32 @@
 - year: 2019
   concerts:
     - date: 2019-03-24
-      name: Spring Concert
+      name: Spring Concert “Carnival of the Animals”
       time: 3 PM
       location: Lafayette United Methodist Church
       address: 2300 Lafayette Ave., St. Louis, MO 63104
       href: https://www.google.com/maps/place/2300+Lafayette+Ave,+St.+Louis,+MO+63104/data=!4m2!3m1!1s0x87d8b37933d670b9:0xfba2beff23ce53dd?ved=2ahUKEwjbja6IuOzfAhVL2IMKHc2nArcQ8gEwAHoECAAQAQ
+      contact: 
+    - date: 2019-05-05
+      name: Spring Concert “Carnival of the Animals”
+      time: 3 PM
+      location: Village Lutheran Church
+      address: 9237 Clayton Road, St. Louis, MO 63124
+      href: https://www.google.com/maps/place/9237+Clayton+Rd,+St.+Louis,+MO+63124/data=!4m2!3m1!1s0x87d8cb5a7709ddf1:0xcd7f8a9c7cf18d8a?ved=2ahUKEwi88bPhlvTgAhVpzoMKHZyrCfYQ8gEwAHoECAAQAQ      
+      contact: 
+    - date: 2019-05-12
+      name: Spring Concert “Carnival of the Animals”
+      time: 3 PM
+      location: Mount Zion Methodist Church
+      address: 1485 Craig Road, St. Louis, MO 63146
+      href: https://www.google.com/maps/place/1485+Craig+Rd,+St.+Louis,+MO+63146/@38.6833926,-90.4455088,17z/data=!3m1!4b1!4m5!3m4!1s0x87df329b2bc1e011:0xde283008c253eedd!8m2!3d38.6833926!4d-90.4433201
+      contact: Mount Zion at 314-432-4251
+    - date: 2019-05-19
+      name: Spring Concert “Carnival of the Animals”
+      time: 3 PM
+      location: Wentzville United Methodist Church
+      address: 725 North Wall Street, Wentzville, MO 63385
+      href: https://www.google.com/maps/place/725+Wall+St,+Wentzville,+MO+63385/data=!4m2!3m1!1s0x87dec6208e083619:0xd52312032489a48?ved=2ahUKEwi6lIOrl_TgAhWM6IMKHYyTBbYQ8gEwAHoECAAQAQ
       contact: 
 - year: 2018
   concerts:
