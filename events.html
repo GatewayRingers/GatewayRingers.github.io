@@ -10,7 +10,7 @@ title: The Gateway Ringers Performance Schedule
 <ul class="list">
 {% for year_event in site.data.events reversed limit:2 %}
   {% for concert in year_event.concerts %}
-  <li hidden class="mv3 upcoming"><div class="white bg-gold fl tc f0 pv2" style="min-width:60px"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
+  <li hidden class="mv3 upcoming"><div class="white bg-gold fl tc f0 pv2" style="min-width:58px"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
     <div class="upcoming_date" hidden>{{ concert.date }}</div>
     <h3 class="pl5 mv1">{{ concert.name }}</h3>
     <p class="pl5 mv1 b">{{ concert.time }}</p>
@@ -26,7 +26,7 @@ title: The Gateway Ringers Performance Schedule
 <h2>{{ year_event.year }} Performance Schedule</h2>
 <ul class="list">
   {% for concert in year_event.concerts %}
-  <li class="mv3"><div class="white bg-gold fl tc f0 pv2" style="min-width:60px"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
+  <li class="mv3"><div class="white bg-gold fl tc f0 pv2" style="min-width:58px"><span class="f5 pb0 b">{{ concert.date | date: "%b" }}</span><br><span class="f3 b">{{ concert.date | date: "%-d" }}</span></div>
     <h3 class="pl5 mv1">{{ concert.name }}</h3>
     <p class="pl5 mv1 b">{{ concert.time }}</p>
     <p class="pl5 mv1 athelas">{{ concert.location }}<br>
