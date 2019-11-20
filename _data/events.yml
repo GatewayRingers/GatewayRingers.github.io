@@ -72,6 +72,13 @@
       address: 206 West Adams Street, O'Fallon, IL 62269
       href: https://www.google.com/maps/place/206+W+Adams+St,+O'Fallon,+IL+62269/@38.5947199,-89.9147718,17z/data=!3m1!4b1!4m5!3m4!1s0x887606c6983bf181:0xa990d51de09bc035!8m2!3d38.5947199!4d-89.9125831
       contact: 
+    - date: 2019-12-22
+      name: Holiday Concert
+      time: 3 PM
+      location: Kirkwood Baptist Church
+      address: 211 N. Woodlawn Ave, St. Louis 63122
+      href: https://www.google.com/maps/place/211+N+Woodlawn+Ave,+Kirkwood,+MO+63122/@38.582668,-90.4000427,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8cc3c728c4811:0xe864d014767aba2e!8m2!3d38.582668!4d-90.397854
+      contact: 
 
 - year: 2018
   concerts:
