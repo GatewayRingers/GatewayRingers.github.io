@@ -12,12 +12,13 @@ title: Gateway Musicians
 <h2 class="cb ph2">Members</h2>
 <img id="groupimgid" class="w-100" src="/images/2019_wide.jpg" alt="Gateway Ringers group photo" usemap="#groupmap">
 <map name="groupmap" id="groupmapid">
-<area shape="rect" coords="48,23,156,151" href="#Carla" title="Carla Hoppe">
+<area shape="rect" coords="70,23,145,105" href="#Andy" title="Andy Eversole">
+<area shape="rect" coords="212,38,289,113" href="#Kim" title="Kim Amos">
+<area shape="rect" coords="299,48,367,134" href="#Angela" title="Angela Ohmie">
+<!--<area shape="rect" coords="48,23,156,151" href="#Carla" title="Carla Hoppe">
 <area shape="rect" coords="156,18,255,118"href="#Peter" title="Peter Dahlstrom">
 <area shape="rect" coords="198,125,295,241" href="#June" title="June Jones">
-<area shape="rect" coords="293,68,377,172" href="#Kim" title="Kim Amos">
 <area shape="rect" coords="350,159,459,271" href="#Mopsi" title="Mopsi Hanley">
-<area shape="rect" coords="390,46,478,142" href="#Andy" title="Andy Eversole">
 <area shape="rect" coords="479,86,564,199" href="#Jeff" title="Jeff White">
 <area shape="rect" coords="564,147,652,265" href="#Trish" title="Trish Jackson">
 <area shape="rect" coords="606,41,686,141" href="#Tim" title="Tim Way">
@@ -27,8 +28,7 @@ title: Gateway Musicians
 <area shape="rect" coords="936,184,1024,285" href="#Diane" title="Diane Stout">
 <area shape="rect" coords="968,44,1045,147" href="#Carl" title="Carl Zimmerman">
 <area shape="rect" coords="1048,62,1127,183" href="#Kaitlyn" title="Kaitlyn Meier">
-<area shape="rect" coords="437,270,543,409" href="#Angela" title="Angela Ohmie">
-<area shape="rect" coords="687,294,799,431" href="#Julia" title="Julia Matthews">
+<area shape="rect" coords="687,294,799,431" href="#Julia" title="Julia Matthews">-->
 </map>
 <p class="ph2 f7 f6-ns tr i mt0">Mouseover to see who’s who; click to jump to biography.</p>
 
@@ -244,7 +244,8 @@ window.onload = function () {
       areas = map.getElementsByTagName('area'),
       len = areas.length,
       coords = [],
-      previousWidth = 1201;
+      // Set this to the image width
+      previousWidth = 1546;
     for (n = 0; n < len; n++) {
       coords[n] = areas[n].coords.split(',');
     }
