@@ -5,8 +5,51 @@
       time: 4 PM
       location: Wentzville United Methodist Church
       address: 725 North Wall Street, Wentzville, MO 63385
-      href: https://www.google.com/maps/place/725+Wall+St,+Wentzville,+MO+63385/data=!4m2!3m1!1s0x87dec6208e083619:0xd52312032489a48?sa=X&ved=2ahUKEwixm9nNoszkAhVKRK0KHac2A18Q8gEwAHoECBsQAQ
+      href: https://www.google.com/maps/place/725+Wall+St,+Wentzville,+MO+63385/@38.8185159,-90.8603867,15z/data=!3m1!4b1!4m5!3m4!1s0x87dec6208e083619:0xd52312032489a48!8m2!3d38.8185162!4d-90.8516534
       contact: 
+    - date: 2020-05-03
+      name: Spring Concert
+      time: 3 PM
+      location: St. John's UCC
+      address: 15370 Olive Blvd., Chesterfield, MO 63017
+      href: https://www.google.com/maps/place/15370+Olive+Blvd,+Chesterfield,+MO+63017/@38.6588294,-90.5573403,15z/data=!3m1!4b1!4m5!3m4!1s0x87df2b36cfff0a09:0xc49cf08ee9f0d543!8m2!3d38.6588297!4d-90.548607
+      contact: 
+    - date: 2020-10-18
+      name: Fall Concert
+      time: 3 PM
+      location: Laclede Groves
+      address: 723 S. Laclede Station Rd., St. Louis, MO 63119
+      href: https://www.google.com/maps/place/723+S+Laclede+Station+Rd,+St.+Louis,+MO+63119/@38.5756813,-90.3502585,15z/data=!3m1!4b1!4m5!3m4!1s0x87d8cbd3d9d71ead:0x929a644a0fa4cd0a!8m2!3d38.5756816!4d-90.3415252
+      contact: 
+    - date: 2020-10-25
+      name: Fall Concert / 25th Anniversary Celebration
+      time: 3 PM
+      location: Kirkwood Baptist Church
+      address: 211 N. Woodlawn Ave., St. Louis, MO 63122
+      href: https://www.google.com/maps/place/211+N+Woodlawn+Ave,+Kirkwood,+MO+63122/@38.582668,-90.4000427,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8cc3c728c4811:0xe864d014767aba2e!8m2!3d38.582668!4d-90.397854
+      contact: 
+    - date: 2020-11-01
+      name: Fall Concert
+      time: 4 PM
+      location: Good Shepherd Lutheran Church, ELCA
+      address: 327 Woods Mill Rd., Ballwin, MO 63011-4300
+      href: https://www.google.com/maps/place/327+Woods+Mill+Rd,+Ballwin,+MO+63011/@38.5990364,-90.5119573,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d397746fe3c5:0x19a41d977648678b!8m2!3d38.5989491!4d-90.509812
+      contact: Jamie De Geer (636) 391-6685
+    - date: 2020-12-06
+      name: Holiday Concert
+      time: 4 PM
+      location: Our Savior Lutheran Church
+      address: 2800 Elm Street, St. Charles, MO 63301
+      href: https://www.google.com/maps/place/2800+Elm+St,+St+Charles,+MO+63301/@38.7999811,-90.5110303,15z/data=!3m1!4b1!4m5!3m4!1s0x87df2f6b6045c199:0xa4b04938f8233153!8m2!3d38.7999814!4d-90.502297
+      contact: 
+    - date: 2020-04-26
+      name: Holiday Concert
+      time: 7:30 PM
+      location: Holy Cross Lutheran Church
+      address: 8945 Veterans Memorial Parkway, O'Fallon, MO 63366
+      href: https://www.google.com/maps/place/8945+Veterans+Memorial+Pkwy,+O'Fallon,+MO+63366/data=!4m2!3m1!1s0x87ded08c70cc4df7:0x59bdcc014e45c6ff?sa=X&ved=2ahUKEwip9rf39t7cAhXJmOAKHeweBQcQ8gEwAHoECAEQAQ
+      contact: 
+      
 - year: 2019
   concerts:
     - date: 2019-03-24
