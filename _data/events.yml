@@ -41,14 +41,14 @@
       location: Our Savior Lutheran Church
       address: 2800 Elm Street, St. Charles, MO 63301
       href: https://www.google.com/maps/place/2800+Elm+St,+St+Charles,+MO+63301/@38.7999811,-90.5110303,15z/data=!3m1!4b1!4m5!3m4!1s0x87df2f6b6045c199:0xa4b04938f8233153!8m2!3d38.7999814!4d-90.502297
-      contact: 
+      contact:
     - date: 2020-12-11
       name: Holiday Concert
       time: 7:30 PM
       location: Holy Cross Lutheran Church
       address: 8945 Veterans Memorial Parkway, O'Fallon, MO 63366
       href: https://www.google.com/maps/place/8945+Veterans+Memorial+Pkwy,+O'Fallon,+MO+63366/data=!4m2!3m1!1s0x87ded08c70cc4df7:0x59bdcc014e45c6ff?sa=X&ved=2ahUKEwip9rf39t7cAhXJmOAKHeweBQcQ8gEwAHoECAEQAQ
-      contact: 
+      contact: (636) 272-4505
       
 - year: 2019
   concerts:
