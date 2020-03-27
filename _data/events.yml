@@ -1,6 +1,6 @@
 - year: 2020
   concerts:
-    - date: 2020-04-26
+<!--    - date: 2020-04-26
       name: Spring Concert
       time: 4 PM
       location: Wentzville United Methodist Church
@@ -13,7 +13,7 @@
       location: St. John's UCC
       address: 15370 Olive Blvd., Chesterfield, MO 63017
       href: https://www.google.com/maps/place/15370+Olive+Blvd,+Chesterfield,+MO+63017/@38.6588294,-90.5573403,15z/data=!3m1!4b1!4m5!3m4!1s0x87df2b36cfff0a09:0xc49cf08ee9f0d543!8m2!3d38.6588297!4d-90.548607
-      contact: 
+      contact: -->
     - date: 2020-10-18
       name: Fall Concert
       time: 3 PM
