@@ -1,5 +1,38 @@
 - year: 2021
   pieces:
+    - title: Ukranian Bell Carol Fantasy
+      composer: arr. Cynthia Dobrinski
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: I Heard the Bells on Christmas Day
+      composer: arr. Jason Krug
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: Angel Glory
+      composer: arr. Kevin McChesney
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: Fum, Fum, Fum
+      composer: arr. Valerie W. Stephenson
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: Ding, Dong, Merrily on High
+      composer: arr. Cynthia Dobrinski
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: We Need a Little Christmas
+      composer: arr. Ron Mallory
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: Frosty the Snowman
+      composer: arr. Douglas Wagner
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: Rudolph the Red-Nosed Reindeer
+      composer: arr. Arnold Sherman
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: God Rest Ye, Merry Gentlemen
+      composer: Joel Raney/arr. Arnold Sherman
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: The Joy of Christmas
+      composer: arr. Michael Joy
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”"       
+    - title: Have Yourself a Merry Little Christmas
+      composer: arr. Douglas E. Wagner
+      concert: "Holiday 2021 “I Heard the Bells on Christmas Day”" 
     - title: Concertante in A Minor
       composer: Michael Helman
       concert: "Fall 2021 “We're Back: Ringing Sounds of the Season”"
@@ -32,7 +65,8 @@
       concert: "Fall 2021 “We're Back: Ringing Sounds of the Season”"     
     - title: Hallelujah
       composer: Leonard Cohen/arr. Joel Raney
-      concert: "Fall 2021 “We're Back: Ringing Sounds of the Season”"         
+      concert: "Fall 2021 “We're Back: Ringing Sounds of the Season”"       
+
       
 - year: 2019
   pieces:
