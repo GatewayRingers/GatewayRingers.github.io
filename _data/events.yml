@@ -1,5 +1,19 @@
 - year: 2022
   concerts:
+    - date: 2022-06-05
+      name: 25th Season Celebration
+      time: 4 PM
+      location: Kirkwood Baptist Church
+      address: 211 N. Woodlawn Ave., Kirkwood, MO 63122
+      href: https://www.google.com/maps/search/211+N.+Woodlawn+Ave.,+Kirkwood,+MO+63122
+      contact: 
+    - date: 2022-05-22
+      name: Spring Concert
+      time: 4 PM
+      location: Trinity Lutheran Church
+      address: 812 Soulard Street, St. Louis, MO 63104
+      href: https://www.google.com/maps/search/812+Soulard+Street,+St.+Louis,+MO+63104
+      contact: 
     - date: 2022-05-15
       name: Spring Concert
       time: 4 PM
