@@ -21,6 +21,47 @@
       address: 725 North Wall Street, Wentzville, MO 63385
       href: https://www.google.com/maps/place/725+Wall+St,+Wentzville,+MO+63385/@38.8185159,-90.8603867,15z/data=!3m1!4b1!4m5!3m4!1s0x87dec6208e083619:0xd52312032489a48!8m2!3d38.8185162!4d-90.8516534
       contact: 
+    - date: 2022-10-06
+      name: Fall Concert
+      time: 4 PM
+      location: Concord Trinity UMC
+      address: 5275 S. Lindbergh Blvd., St. Louis, MO 63126
+      href: https://www.google.com/maps/place/5275+S+Lindbergh+Blvd,+Sappington,+MO+63126/@38.5245517,-90.3737823,15z/data=!3m1!4b1!4m5!3m4!1s0x87d8c8d82d40a59b:0xecc756e82800f5c9!8m2!3d38.524552!4d-90.365049
+      contact:  
+    - date: 2022-10-22
+      name: Fall Concert
+      time: 6 PM
+      location: Lexington Missouri Performing Arts Series
+      address: Lexington, MO
+      href: https://www.google.com/maps/place/Lexington,+MO+64067/@39.1769582,-93.9038929,13z/data=!3m1!4b1!4m5!3m4!1s0x87c1798dbd629831:0xad52aec041b6b310!8m2!3d39.1847339!4d-93.8799426
+      contact:  
+<i--    - date: 2022-10-30
+      name: Fall Concert
+      time: 3 PM
+      location: St. Paul UCC
+      address: 200 N. Main St., Waterloo, IL 62298
+      href: https://www.google.com/maps?q=200+N.+Main+St.,+Waterloo,+IL+62298&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjkiIbO1I_5AhW-M1kFHTJ7AY4Q_AUoAXoECAEQAw
+      contact: Gary Humphrey (618)939-7123 ->
+    - date: 2022-11-06
+      name: Fall Concert
+      time: 4 PM
+      location: Good Shepherd Lutheran Church, ELCA
+      address: 327 Woods Mill Rd., Ballwin, MO 63011-4300
+      href: https://www.google.com/maps/place/327+Woods+Mill+Rd,+Ballwin,+MO+63011/@38.5990364,-90.5119573,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d397746fe3c5:0x19a41d977648678b!8m2!3d38.5989491!4d-90.509812
+      contact: Jamie De Geer (636) 391-6685
+    - date: 2022-12-11
+      name: Holiday Concert
+      time: 4 PM
+      location: Wentzville UMC
+      address: 725 North Wall Street, Wentzville, MO 63385
+      href: https://www.google.com/maps/place/725+Wall+St,+Wentzville,+MO+63385/@38.8185162,-90.8538421,17z/data=!3m1!4b1!4m5!3m4!1s0x87dec6208e083619:0xd52312032489a48!8m2!3d38.8185162!4d-90.8516534      contact:  
+    - date: 2022-12-18
+      name: Holiday Concert
+      time: 4 PM
+      location: Hope Evangelical Lutheran Church
+      address: 5218 Neosho St., St. Louis, MO 63109
+      href: https://www.google.com/maps?q=5218+Neosho+St,+St.+Louis,+MO+63109&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjV4dGh1I_5AhVPGVkFHfmrDVUQ_AUoAXoECAEQAw
+      contact: 
 
 - year: 2021
   concerts:
