@@ -35,13 +35,13 @@
       address: Lexington, MO
       href: https://www.google.com/maps/place/Lexington,+MO+64067/@39.1769582,-93.9038929,13z/data=!3m1!4b1!4m5!3m4!1s0x87c1798dbd629831:0xad52aec041b6b310!8m2!3d39.1847339!4d-93.8799426
       contact: 
-#    - date: 2022-10-30
-#      name: Fall Concert
-#      time: 3 PM
-#      location: St. Paul UCC
-#      address: 200 N. Main St., Waterloo, IL 62298
-#      href: https://www.google.com/maps?q=200+N.+Main+St.,+Waterloo,+IL+62298&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjkiIbO1I_5AhW-M1kFHTJ7AY4Q_AUoAXoECAEQAw
-#      contact: Gary Humphrey (618)939-7123
+    - date: 2022-10-30
+      name: Fall Concert
+      time: 3 PM
+      location: St. Paul UCC
+      address: 200 N. Main St., Waterloo, IL 62298
+      href: https://www.google.com/maps?q=200+N.+Main+St.,+Waterloo,+IL+62298&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjkiIbO1I_5AhW-M1kFHTJ7AY4Q_AUoAXoECAEQAw
+      contact: Gary Humphrey (618)939-7123
     - date: 2022-11-06
       name: Fall Concert
       time: 4 PM
