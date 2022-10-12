@@ -30,11 +30,11 @@
       contact: 
     - date: 2022-10-22
       name: Fall Concert
-      time: 6 PM
+      time: 7 PM
       location: Lexington Missouri Performing Arts Series
       address: Lexington, MO
       href: https://www.google.com/maps/place/Lexington,+MO+64067/@39.1769582,-93.9038929,13z/data=!3m1!4b1!4m5!3m4!1s0x87c1798dbd629831:0xad52aec041b6b310!8m2!3d39.1847339!4d-93.8799426
-      contact: 
+      contact: http://www.thelexcenter.org
     - date: 2022-10-30
       name: Fall Concert
       time: 3 PM
