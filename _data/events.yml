@@ -28,6 +28,49 @@
       address: 14255 New Halls Ferry Rd., Florissant, MO 63033 
       href: https://www.google.com/maps/place/14255+New+Halls+Ferry+Road,+Florissant,+MO+63033/@38.810987,-90.302997,17z/data=!3m1!4b1!4m6!3m5!1s0x87df37fd3ffc1611:0x485dbe3a7d032938!8m2!3d38.810987!4d-90.3008083!16s%2Fg%2F11cpfg171d
       contact:  
+    - date: 2023-10-23
+      name: Fall Concert
+      time: 4 PM
+      location: Peace Lutheran Church
+      address: 737 Barracksview Road, St. Louis, MO 63304
+      href: https://www.google.com/maps/place/Peace+Lutheran+Church/@38.4989079,-90.3105738,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8c81a6b0e5307:0x856533a32b2e04ee!8m2!3d38.4989079!4d-90.3079989!16s%2Fg%2F1tx47ldc?entry=ttu
+      contact:     
+    - date: 2023-10-29
+      name: Fall Concert
+      time: 4 PM
+      location: Zion Lutheran Church
+      address: 3866 Harvester Road, St. Charles, MO 63304
+      href: https://www.google.com/maps/place/Zion+Lutheran+Church/@38.7424859,-90.5865734,17z/data=!3m1!4b1!4m5!3m4!1s0x87df29f372ff95ef:0x27cdef2b8f42344c!8m2!3d38.7424817!4d-90.5843847
+      contact:   
+    - date: 2023-11-04
+      name: Fall Concert
+      time: 7 PM
+      location: St. Paul UCC
+      address: 127 St. Paul Street, Columbia, IL 62236
+      href: https://www.google.com/maps/place/St+Paul+United+Church+of+Christ/@38.4417547,-90.2051262,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8bbb4c39f3389:0x84c550de95110c9!8m2!3d38.4417547!4d-90.2025513!16s%2Fg%2F1tfh55tr?entry=ttu
+      contact:  
+    - date: 2023-11-05
+      name: Fall Concert
+      time: 4 PM
+      location: Good Shepherd Lutheran Church ELCA
+      address: 327 Woods Mill Road, Manchester, MO 63011-4300
+      href: https://www.google.com/maps/place/327+Woods+Mill+Rd,+Ballwin,+MO+63011/@38.5990364,-90.5119573,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d397746fe3c5:0x19a41d977648678b!8m2!3d38.5989491!4d-90.509812
+      contact:   
+    - date: 2023-12-10
+      name: Holiday Concert
+      time: 4 PM
+      location: Holy Cross Lutheran Church
+      address: 8945 Veterans Memorial Parkway, O'Fallon, MO 63366
+      href: https://www.google.com/maps/place/8945+Veterans+Memorial+Pkwy,+O'Fallon,+MO+63366/data=!4m2!3m1!1s0x87ded08c70cc4df7:0x59bdcc014e45c6ff?sa=X&ved=2ahUKEwip9rf39t7cAhXJmOAKHeweBQcQ8gEwAHoECAEQAQ
+      contact:   
+    - date: 2023-12-17
+      name: Holiday Concert
+      time: 4 PM
+      location: Historic Trinity Lutheran Church
+      address: 812 Soulard Street, St. Louis, MO 63104
+      href: https://www.google.com/maps/place/Historic+Trinity/@38.6095184,-90.205495,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b3a08ce6fdd9:0x727983cdc18d52e9!8m2!3d38.6095184!4d-90.2029201!16s%2Fg%2F11c605vkxl?entry=ttu
+      contact:   
+
 - year: 2022
   concerts:
     - date: 2022-05-22
