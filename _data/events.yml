@@ -1,5 +1,32 @@
 - year: 2023
   concerts:
+    - date: 2024-04-21
+      name: Spring Concert
+      time: 4 PM
+      location: St Paul United Church of Christ
+      address: 123 East Dee St., Lebanon, IL 62254
+      href: https://www.google.com/maps/place/123+E+Dee+St,+Lebanon,+IL+62254/@38.6023012,-89.8071417,17z/data=!3m1!4b1!4m6!3m5!1s0x88760904ed436dd9:0x6cc1ae6288df24b4!8m2!3d38.6023012!4d-89.8071417!16s%2Fg%2F11b8z0n8_y?entry=ttu      contact:     
+    - date: 2024-04-28
+      name: Spring Concert
+      time: 
+      location: Details coming soon
+      address: 
+      href: 
+    - date: 2024-05-05
+      name: Spring Concert
+      time: 
+      location: Details coming soon
+      address: 
+      href: 
+    - date: 2024-05-19
+      name: Spring Concert
+      time: 3 PM
+      location: Green Trails United Methodist Church
+      address: 14237 Laude Rd, Chesterfield, MO 63017
+      href: https://www.google.com/maps/place/14237+Ladue+Rd,+Chesterfield,+MO+63017/@38.6658093,-90.5182538,17z/data=!3m1!4b1!4m6!3m5!1s0x87df2ca4f1a724c5:0x6002606e3674f05d!8m2!3d38.6658093!4d-90.5182538!16s%2Fg%2F11bw50ft0p?entry=ttu
+
+- year: 2023
+  concerts:
     - date: 2023-04-23
       name: Spring Concert “Dances Through the Seasons”
       time: 4 PM
