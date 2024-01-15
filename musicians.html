@@ -183,12 +183,12 @@ title: Gateway Musicians
     {%- assign index_modulo = forloop.index0 | modulo: former_members_rows -%}
     {%- if row_index == index_modulo -%}
               <th class="tl pa2">
-      {%- if former_member.charter_member -%}
-              ♩ 
-      {% endif -%}
+      {%- if former_member.charter_member -%}♩&nbsp;{%- endif -%}
+      {%- if former_member.deceased -%}✝&nbsp;{%- endif -%}
               {{- former_member.name -}}
+      {%- if former_member.deceased -%}&nbsp;✝{%- endif -%}
               </td>
-    {% endif -%}
+    {%- endif -%}
   {%- endfor %}
             </tr>
 {% endfor -%}
