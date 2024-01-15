@@ -182,7 +182,7 @@ title: Gateway Musicians
   {% for former_member in site.data.former_members %}
     {% assign index_modulo = forloop.index0 | modulo: former_members_rows %}
     {% if row_index == index_modulo %}
-              <th class="tl pa2">former_member</td>
+              <th class="tl pa2">{{ former_member.name }}</td>
     {% endif %}
   {% endfor %}
             </tr>
