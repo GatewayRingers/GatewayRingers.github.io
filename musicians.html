@@ -174,19 +174,24 @@ title: Gateway Musicians
         <table class="f6 w-100 mw8 center" cellspacing="0">
             <tbody class="h-copy athelas">
 <!--
-{% assign former_members_size = site.data.former_members | size %}
-{% assign former_members_rows = former_members_size | divided_by: 3.0 | ceil %}
-{% for row_num in (1..former_members_rows) %}
-  {% assign row_index = row_num | minus: 1 %}
+{%- assign former_members_size = site.data.former_members | size -%}
+{%- assign former_members_rows = former_members_size | divided_by: 3.0 | ceil -%}
+{%- for row_num in (1..former_members_rows) -%}
+  {%- assign row_index = row_num | minus: 1 %}
             <tr class="stripe-dark">
-  {% for former_member in site.data.former_members %}
-    {% assign index_modulo = forloop.index0 | modulo: former_members_rows %}
-    {% if row_index == index_modulo %}
-              <th class="tl pa2">{{ former_member.name }}</td>
-    {% endif %}
-  {% endfor %}
+  {% for former_member in site.data.former_members -%}
+    {%- assign index_modulo = forloop.index0 | modulo: former_members_rows -%}
+    {%- if row_index == index_modulo -%}
+              <th class="tl pa2">
+      {%- if former_member.charter_member -%}
+              ♩ 
+      {% endif -%}
+              {{- former_member.name -}}
+              </td>
+    {% endif -%}
+  {%- endfor %}
             </tr>
-{% endfor %}
+{% endfor -%}
 -->
             <tr class="stripe-dark">
                 <th class="tl pa2">Curtis Armstrong</td>
