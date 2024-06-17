@@ -28,6 +28,27 @@
       address: 14237 Laude Rd, Chesterfield, MO 63017
       href: https://www.google.com/maps/place/14237+Ladue+Rd,+Chesterfield,+MO+63017/@38.6658093,-90.5182538,17z/data=!3m1!4b1!4m6!3m5!1s0x87df2ca4f1a724c5:0x6002606e3674f05d!8m2!3d38.6658093!4d-90.5182538!16s%2Fg%2F11bw50ft0p?entry=ttu
       contact:  
+    - date: 2024-10-20
+      name: Fall Concert
+      time: 4 PM
+      location: Holy Cross Lutheran Church, LCMS
+      address: 304 South St., Collinsville, IL 62234
+      href: https://www.google.com/maps/dir/38.7661053,-90.7057801/304+South+St,+Collinsville,+IL/@38.6982326,-90.6785147,10z/data=!3m2!4b1!5s0x87d94ee8dfe63473:0xab384531a5e3ddf0!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8875ffefa6df96bb:0xd17ea254a8df4176!2m2!1d-89.988899!2d38.6656729?entry=ttu
+      contact: 
+    - date: 2024-10-27
+      name: Fall Concert
+      time: 4 PM
+      location: St. Peters UCC
+      address: 20 E. Fifth St., Washington, MO 63090
+      href: https://www.google.com/maps/dir//20+E+Fifth+St,+Washington,+MO+63090/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87d94e850a4eceb9:0xa2d0b2635523cabf?sa=X&ved=1t:707&ictx=111
+      contact:  
+    - date: 2024-11-03
+      name: Fall Concert
+      time: 4 PM
+      location: Good Shepherd Lutheran Church ELCA
+      address: 327 Woods Mill Road, Manchester, MO 63011-4300
+      href: https://www.google.com/maps/place/327+Woods+Mill+Rd,+Ballwin,+MO+63011/@38.5990364,-90.5119573,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d397746fe3c5:0x19a41d977648678b!8m2!3d38.5989491!4d-90.509812
+      contact: Jamie De Geer (636) 391-6685
     
 - year: 2023
   concerts:
