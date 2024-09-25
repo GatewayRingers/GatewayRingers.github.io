@@ -137,23 +137,23 @@ title: Gateway Musicians
 
 <h3 class="ph2">Past Directors</h3>
 <ul class="col4 ph2 lh-copy athelas list pl0 center">
-  <li class="pv2">Wim Blees (1995–1997)</li>
-  <li class="pv2">Mark W. Lawson (1997–2003)</li>
-  <li class="pv2">Nancy Helmich (2004–2007)</li>
-  <li class="pv2">Chuck Peery (2008–2018)</li>
+  <li class="pv1">Wim Blees (1995–1997)</li>
+  <li class="pv1">Mark W. Lawson (1997–2003)</li>
+  <li class="pv1">Nancy Helmich (2004–2007)</li>
+  <li class="pv1">Chuck Peery (2008–2018)</li>
 </ul>
   
 <h3 class="ph2">Past Members</h3>
-<ul class="col3 ph2 lh-copy athelas list pl0 center">
+<ul class="col4 ph2 lh-copy athelas list pl0 center">
   {% for former_member in site.data.former_members -%}
-      <li class="pv2">
+      <li class="pv1">
       {%- if former_member.charter_member -%}♩&nbsp;{%- endif -%}
       {%- if former_member.deceased -%}✝&nbsp;{%- endif -%}
               {{- former_member.name -}}
       {%- if former_member.deceased -%}&nbsp;✝{%- endif -%}
       </li>
   {%- endfor %}
-  <li class="pv2"><a class="link blue dim" href="/gurney">Gurney the Gateway Chicken </a></li>
+  <li class="pv1"><a class="link blue dim" href="/gurney">Gurney the Gateway Chicken </a></li>
 </ul>
 <script>
 window.onload = function () {
