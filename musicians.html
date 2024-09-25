@@ -136,40 +136,25 @@ title: Gateway Musicians
 <p class="ph2 athelas lh-copy">Would you or someone you know like to be a Gateway Ringer? <a href="/auditions" class="link blue dim">Find out the membership requirements here.</a></p>
 
 <h3 class="ph2">Past Directors</h3>
-<ul class="col3 ph2 lh-copy athelas list pl0 center">
+<ul class="col4 ph2 lh-copy athelas list pl0 center">
   <li class="pv2">Wim Blees (1995–1997)</li>
   <li class="pv2">Mark W. Lawson (1997–2003)</li>
   <li class="pv2">Nancy Helmich (2004–2007)</li>
   <li class="pv2">Chuck Peery (2008–2018)</li>
+</ul>
   
 <h3 class="ph2">Past Members</h3>
-        <table class="f6 w-100 mw8 center" cellspacing="0">
-            <tbody class="h-copy athelas">
-{%- assign former_members_size = site.data.former_members | size -%}
-{%- assign former_members_rows = former_members_size | divided_by: 3.0 | ceil -%}
-{%- for row_num in (1..former_members_rows) -%}
-  {%- assign row_index = row_num | minus: 1 %}
-            <tr class="stripe-dark">
+<ul class="col4 ph2 lh-copy athelas list pl0 center">
   {% for former_member in site.data.former_members -%}
-    {%- assign index_modulo = forloop.index0 | modulo: former_members_rows -%}
-    {%- if row_index == index_modulo -%}
-              <th class="tl pa2">
+      <li class="pv2">
       {%- if former_member.charter_member -%}♩&nbsp;{%- endif -%}
       {%- if former_member.deceased -%}✝&nbsp;{%- endif -%}
               {{- former_member.name -}}
       {%- if former_member.deceased -%}&nbsp;✝{%- endif -%}
-              </td>
-    {%- endif -%}
+      </li>
   {%- endfor %}
-            </tr>
-{% endfor -%}
-            <tr class="stripe-dark">
-                <th class="tl pa2"> </td>
-                <th class="tl pa2"><a class="link blue dim" href="/gurney">Gurney the Gateway Chicken </a></td>
-                <th class="tl pa2"> </td>
-            </tr>
-            </tbody>
-        </table>
+  <li class="pv2">Gurney the Gateway Chicken</li>
+</ul>
 <script>
 window.onload = function () {
   var ImageMap = function (map, img) {
