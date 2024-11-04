@@ -55,7 +55,7 @@
       location: Hannibal&#45LaGrange University, Roland Fine Arts Center
       address: 2800 Palmyra Road, Hannibal, MO 63401
       href: https://www.google.com/maps/place/2800+Palmyra+Rd,+Hannibal,+MO+63401/@39.7290223,-91.3934507,17z/data=!3m1!4b1!4m6!3m5!1s0x87ddef339b550b3f:0x57f9905117b659f1!8m2!3d39.7290182!4d-91.3908704!16s%2Fg%2F11cpgrnrm2?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D
-      contact: https://visithannibal.com/events/the-gateway-ringers/
+      contact: <a href="https://visithannibal.com/events/the-gateway-ringers/"> </a>https://visithannibal.com/events/the-gateway-ringers/
     - date: 2024-12-15
       name: Holiday Concert
       time: 4 PM
