@@ -1,5 +1,19 @@
 - year: 2025
   concerts:
+    - date: 2025-04-06
+      name: Spring Concert
+      time: 4 PM
+      location: Chapel of the Cross Lutheran Church
+      address: 907 Jungermann Rd., St. Peters, MO 63376
+      href: https://www.google.com/maps/place/907+Jungermann+Rd,+St+Peters,+MO+63376/@38.7620824,-90.5563116,13z/data=!4m6!3m5!1s0x87df29b44b80c3c5:0x381d94efa5350e4f!8m2!3d38.7737518!4d-90.5799687!16s%2Fg%2F11bw3xj10h
+      contact:        
+    - date: 2025-04-13
+      name: Spring Concert
+      time: 4 PM
+      location: Lutheran Church of the Atonement
+      address: 1285 N New Florissant Rd., Florissant, MO 63031
+      href: https://www.google.com/maps/place/1285+N+New+Florissant+Rd,+Florissant,+MO+63031/data=!4m2!3m1!1s0x87df37c086580c19:0x90b41423bfd5f79?sa=X&ved=1t:242&ictx=111
+      contact:  
     - date: 2025-05-04
       name: Spring Concert
       time: 4 PM
