@@ -1,3 +1,12 @@
+- year: 2025
+  concerts:
+    - date: 2025-05-04
+      name: Spring Concert
+      time: 4 PM
+      location: Sisters of the Precious Blood St Joseph Chapel
+      address: 204 N. Main St. O’Fallon, MO 63366
+      href: https://www.google.com/maps/place/204+N+Main+St,+O’Fallon,+MO+63366/data=!4m2!3m1!1s0x87ded0a20617d277:0x9183685e190d2edb?sa=X&ved=1t:242&ictx=111      contact:  
+      
 - year: 2024
   concerts:
     - date: 2024-04-21
@@ -258,7 +267,7 @@
       name: Holiday Concert
       time: 7:30 PM
       location: Holy Cross Lutheran Church
-      address: 8945 Veterans Memorial Parkway, O'Fallon, MO 63366
+      address: 8945 Veterans Memorial Parkway, O’Fallon, MO 63366
       href: https://www.google.com/maps/place/8945+Veterans+Memorial+Pkwy,+O'Fallon,+MO+63366/data=!4m2!3m1!1s0x87ded08c70cc4df7:0x59bdcc014e45c6ff?sa=X&ved=2ahUKEwip9rf39t7cAhXJmOAKHeweBQcQ8gEwAHoECAEQAQ
       contact: (636) 272-4505
     - date: 2021-12-05
