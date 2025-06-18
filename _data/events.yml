@@ -1,3 +1,13 @@
+- year: 2026
+  concerts:
+    - date: 2025-04-19
+      name: Spring Concert
+      time: 4 PM
+      location: Chapel of the Cross Lutheran Church
+      address: 11645 Benham Rd. St. Louis, MO 63136
+      href: https://www.google.com/maps/place/Chapel+of+the+Cross+-+Lutheran/@38.7806165,-90.2407037,16.92z/data=!4m6!3m5!1s0x87df48d8d111d297:0xa170345694075b6d!8m2!3d38.780623!4d-90.238145!16s%2Fg%2F1tp8_ld4?entry=ttu
+      contact:  
+      
 - year: 2025
   concerts:
     - date: 2025-04-06
@@ -28,6 +38,13 @@
       address: 7400 South Outer 364 Dardenne Prairie, MO 63368
       href: https://www.google.com/maps?num=10&client=safari&sca_esv=2e5b74018e0ac27e&rls=en&output=search&q=7400+South+Outer+364+Dardenne+Prairie,+MO+63368&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOTPryHVyOUisUiQWwjZrW-xk89Qe_1K5AEHBJ0yd2fdHvglntLL-ubeT4YS0IluAUVn9QTXj5KF4XzJxGSSysmOj8Ao-IqB5J4Q2tz2rdD_hCvbXsbdGplfpbUeBkphOcREdBKNDYgZurLgVpET8lYAKpw3WMgu0kjd-7BfhMqvdl3UEtg&entry=mc&ved=1t:200715&ictx=111
       contact:    
+    - date: 2025-11-02
+      name: Fall Concert
+      time: 4 PM
+      location: Good Shepherd Lutheran Church ELCA
+      address: 327 Woods Mill Road, Manchester, MO 63011-4300
+      href: https://www.google.com/maps/place/327+Woods+Mill+Rd,+Ballwin,+MO+63011/@38.5990364,-90.5119573,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d397746fe3c5:0x19a41d977648678b!8m2!3d38.5989491!4d-90.509812
+      contact: Jamie De Geer (636) 391-6685 
       
 - year: 2024
   concerts:
