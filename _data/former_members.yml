@@ -32,6 +32,8 @@
 - name: Ginny Lawson
 - name: Kit LaMar
 - name: Peggy “Carillon” Lohnes
+  charter_member: true
+  deceased: true
 - name: Julia Matthews
 - name: Ruth McDonnell
 - name: Jason McGinnis
