@@ -31,6 +31,13 @@
       address: 204 N. Main St. O’Fallon, MO 63366
       href: https://www.google.com/maps/place/204+N+Main+St,+O’Fallon,+MO+63366/data=!4m2!3m1!1s0x87ded0a20617d277:0x9183685e190d2edb?sa=X&ved=1t:242&ictx=111      
       contact:  
+    - date: 2025-10-12
+      name: Fall Concert
+      time: 4 PM
+      location: Faith Des Peres Presbyterian
+      address: 11155 Clayton Road, St. Louis, MO 63131
+      href: https://www.google.com/maps/place/11155+Clayton+Rd,+Frontenac,+MO+63131/@38.6340789,-90.4238753,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8cd232a27300f:0x55fc3e9a77b99968!8m2!3d38.6340789!4d-90.4216866!16s%2Fg%2F11bw3xxxzh
+      contact:   
     - date: 2025-10-19
       name: Fall Concert
       time: 4 PM
@@ -38,6 +45,13 @@
       address: 7400 South Outer 364 Dardenne Prairie, MO 63368
       href: https://www.google.com/maps?num=10&client=safari&sca_esv=2e5b74018e0ac27e&rls=en&output=search&q=7400+South+Outer+364+Dardenne+Prairie,+MO+63368&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOTPryHVyOUisUiQWwjZrW-xk89Qe_1K5AEHBJ0yd2fdHvglntLL-ubeT4YS0IluAUVn9QTXj5KF4XzJxGSSysmOj8Ao-IqB5J4Q2tz2rdD_hCvbXsbdGplfpbUeBkphOcREdBKNDYgZurLgVpET8lYAKpw3WMgu0kjd-7BfhMqvdl3UEtg&entry=mc&ved=1t:200715&ictx=111
       contact:    
+    - date: 2025-10-26
+      name: Fall Concert
+      time: 3 PM
+      location: First Presbyterian Church of Kirkwood
+      address: 100 E. Adams Ave., Kirkwood, MO 63122
+      href: https://www.google.com/maps/place/100+E+Adams+Ave,+Kirkwood,+MO+63122/data=!4m2!3m1!1s0x87d8cc3120806083:0x777c4dbc7c9a07ab?sa=X&ved=2ahUKEwjVlc63-N7cAhUnSN8KHf4xDTQQ8gEwAHoECAIQAQ
+      contact:
     - date: 2025-11-02
       name: Fall Concert
       time: 4 PM
