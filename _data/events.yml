@@ -22,11 +22,25 @@
       href: https://www.google.com/maps/dir//405+S+5th+St,+St+Charles,+MO+63301/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87df2faa81c04925:0x25ae2aebab26a38e?sa=X&ved=1t:707&ictx=111      
       contact:  
     - date: 2026-10-11
-      name: Spring Concert 
+      name: Fall Concert 
       time: 4 PM
       location: Immanuel Lutheran Church
       address: 214 W 5th St, Washington, MO 63090
       href: https://www.google.com/maps/place/214+W+5th+St,+Washington,+MO+63090/@38.5566464,-91.0160809,3a,75y,70.85h,90t/data=!3m4!1e1!3m2!1skp1B3ousfPSnQ4AOf-lcCg!2e0!4m2!3m1!1s0x87d94e842b467393:0xe8218b3bcee058c7?sa=X&ved=1t:3780&ictx=111
+      contact: 
+    - date: 2026-11-01
+      name: Fall Concert 
+      time: 4 PM
+      location: Good Shepherd Lutheran Church ELCA
+      address: 327 Woods Mill Road, Manchester, MO 63011-4300
+      href: https://www.google.com/maps/place/327+Woods+Mill+Rd,+Ballwin,+MO+63011/@38.5990364,-90.5119573,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8d397746fe3c5:0x19a41d977648678b!8m2!3d38.5989491!4d-90.509812
+      contact: 
+    - date: 2026-12-06
+      name: Holiday Concert 
+      time: 3 PM
+      location: Saints Peter and Paul Catholic Church
+      address: 207 Vandalia St., Collinsville, IL 62234
+      href: https://www.google.com/maps/place/207+Vandalia+St,+Collinsville,+IL+62234/data=!4m2!3m1!1s0x8875ffeb6a755eed:0xf318acc94c0737fd?sa=X&ved=1t:242&ictx=111      
       contact:  
       
 - year: 2025
