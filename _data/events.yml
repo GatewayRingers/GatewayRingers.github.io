@@ -42,6 +42,20 @@
       address: 207 Vandalia St., Collinsville, IL 62234
       href: https://www.google.com/maps/place/207+Vandalia+St,+Collinsville,+IL+62234/data=!4m2!3m1!1s0x8875ffeb6a755eed:0xf318acc94c0737fd?sa=X&ved=1t:242&ictx=111      
       contact:  
+    - date: 2026-12-13
+      name: Holiday Concert 
+      time: 4 PM
+      location: Holy Cross Lutheran Church
+      address: 8945 Veterans Memorial Parkway, O'Fallon, MO 63366
+      href: https://www.google.com/maps/place/8945+Veterans+Memorial+Pkwy,+O'Fallon,+MO+63366/data=!4m2!3m1!1s0x87ded08c70cc4df7:0x59bdcc014e45c6ff?sa=X&ved=2ahUKEwip9rf39t7cAhXJmOAKHeweBQcQ8gEwAHoECAEQAQ
+      contact: 
+    - date: 2026-12-20
+      name: Holiday Concert 
+      time: 4 PM
+      location: Historic Trinity Lutheran Church
+      address: 812 Soulard Street, St. Louis, MO 63104
+      href: https://www.google.com/maps/place/Historic+Trinity/@38.6095184,-90.205495,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b3a08ce6fdd9:0x727983cdc18d52e9!8m2!3d38.6095184!4d-90.2029201!16s%2Fg%2F11c605vkxl?entry=ttu
+      contact:   
       
 - year: 2025
   concerts:
