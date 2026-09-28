@@ -1,3 +1,12 @@
+- year: 2027
+  concerts:
+      - date: 2027-04-18
+      name: Spring Concert 
+      time: 4 PM
+      location: Chapel of the Cross Lutheran Church
+      address: 11645 Benham Rd. St. Louis, MO 63136
+      href: https://www.google.com/maps/place/Chapel+of+the+Cross+-+Lutheran/@38.7806165,-90.2407037,16.92z/data=!4m6!3m5!1s0x87df48d8d111d297:0xa170345694075b6d!8m2!3d38.780623!4d-90.238145!16s%2Fg%2F1tp8_ld4?entry=ttu
+      contact:  
 - year: 2026
   concerts:
     - date: 2026-04-19
@@ -22,14 +31,21 @@
       href: https://www.google.com/maps/dir//405+S+5th+St,+St+Charles,+MO+63301/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87df2faa81c04925:0x25ae2aebab26a38e?sa=X&ved=1t:707&ictx=111      
       contact:  
     - date: 2026-10-11
-      name: Fall Concert 
+      name: Fall Concert “Take Me Home”
       time: 4 PM
       location: Immanuel Lutheran Church
       address: 214 W 5th St, Washington, MO 63090
       href: https://www.google.com/maps/place/214+W+5th+St,+Washington,+MO+63090/@38.5566464,-91.0160809,3a,75y,70.85h,90t/data=!3m4!1e1!3m2!1skp1B3ousfPSnQ4AOf-lcCg!2e0!4m2!3m1!1s0x87d94e842b467393:0xe8218b3bcee058c7?sa=X&ved=1t:3780&ictx=111
       contact: 
+    - date: 2026-10-25
+      name: Fall Concert “Take Me Home”
+      time: 4 PM  
+      location: St. Paul UCC
+      address: 5508 Telegraph, St. Louis MO 63129 
+      href: https://www.google.com/maps/place/5508+Telegraph+Rd,+St.+Louis,+MO+63129/data=!4m2!3m1!1s0x87d8c7f737a64337:0x6b1a67aca613af76?sa=X&ved=2ahUKEwj0zMTcgt_cAhVhmuAKHewMCfYQ8gEwAHoECAQQAQ
+      contact: 
     - date: 2026-11-01
-      name: Fall Concert 
+      name: Fall Concert “Take Me Home”
       time: 4 PM
       location: Good Shepherd Lutheran Church ELCA
       address: 327 Woods Mill Road, Manchester, MO 63011-4300
